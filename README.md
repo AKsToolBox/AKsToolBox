@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Asef Karim 👋
 
-<!--
-**AKsToolBox/AKsToolBox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Linux System Administrator & Technical Operations Specialist
+Specializing in server administration, infrastructure security, network auditing, and system automation.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Technical Core & Competencies
+- **Operating Systems:** Debian, Ubuntu, Red Hat Enterprise Linux (RHEL), Arch / Parrot Security OS
+- **Scripting & Automation:** Bash Shell Scripting, Python, Systemd Services, Cron Jobs
+- **Network & Security:** Firewalls (UFW/IPTables), SSH Hardening, Fail2ban, Network Security Auditing
+- **Virtualization & Systems:** KVM, QEMU, Docker, VirtualBox Environment Management
+- **Services & Web:** Nginx, Apache, DNS, SSL/TLS Management
+
+---
+
+### 📌 Featured Repositories
+- **[Linux-Sys-Admin](https://github.com/AKsToolBox/Linux-Sys-Admin):** Automated Bash scripts for server hardening, SSH configuration, firewall setup, and kernel security tuning.
+
+---
+
+### 📫 Connect
+- **LinkedIn:** [Asef Karim](https://www.linkedin.com/in/asefkarim)
